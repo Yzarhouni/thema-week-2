@@ -1,0 +1,67 @@
+.tile{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(236, 9, 149);
+    color: white;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.tile:nth-child(1){
+    top: 50px;
+    left: 600px;
+   
+}
+.tile:nth-child(2){
+    top: 50px;
+    left: 810px;
+   
+}
+.tile:nth-child(3){
+    top: 50px;
+    left: 1020px;
+}
+.tile:nth-child(4){
+    top: 260px;
+    left: 600px;
+   
+}
+.tile:nth-child(5){
+    top: 260px;
+    left: 810px;
+   
+}
+.tile:nth-child(6){
+    top: 260px;
+    left: 1020px;
+}
+.tile:nth-child(7){
+    top: 470px;
+    left: 600px;
+   
+
+}
+.tile:nth-child(8){
+    top: 470px;
+    left: 810px;
+}
+.tile:nth-child(9){
+    top: 470px;
+    left: 1020px;
+}
+
+ .Brent{
+    width: 100px;
+    height: 100px;
+    float:left;
+ }
+ .savage{
+    width: 100px;
+    height: 100px;
+    float: left;
+ }
+ .maneskin{
+    width: 1px;
+    height: 1px;
+    float: left;
+ }
