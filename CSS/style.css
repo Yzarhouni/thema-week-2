@@ -1,5 +1,5 @@
 .tile{
-    background-color: rgb(209, 49, 143);
+    background-color: rgb(238, 128, 192);
     color: white;
    aspect-ratio: 1;
 }
@@ -62,4 +62,9 @@ header{
 main{
     display: grid;
     grid-template-columns: 3fr 4fr 3fr;
+}
+body{
+    background-image: url(/Img/79672c94e23ee125b0a734ac6f2e0282.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
